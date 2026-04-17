@@ -1,0 +1,17 @@
+# Servidor local
+server.js
+screenshot.js
+
+# Temporários / screenshots
+.tmp/
+
+# Node
+node_modules/
+
+# Env
+.env
+
+# OS
+desktop.ini
+.DS_Store
+Thumbs.db
